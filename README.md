@@ -22,6 +22,9 @@
 - 从 [navicat premium](https://www.navicat.com.cn/download/navicat-premium) 官网下载最新版。安装并运行，选择试用14天。
 - 待试用到期后，运行重置脚本。双击`reset_navicat.command`或执行`./reset_navicat.sh`
 
+- cd navicat_reset_mac
+- chmod u+x reset_navicat.sh
+
 ## 注意事项
 - 使用前请备份数据。依次点击`文件-导出链接-全选-导出密码`导出并备份所有数据。
 - 已支持最新版。~~如遇高版本不生效的，可尝试16.2版本。~~[点击从官网下载16.2版本](https://download.navicat.com/download/navicat162_premium_cs.dmg)
